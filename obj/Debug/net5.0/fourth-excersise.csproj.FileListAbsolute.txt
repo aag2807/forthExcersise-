@@ -1,0 +1,15 @@
+/Users/admin/Documents/net/fourth-excersise/obj/Debug/net5.0/fourth-excersise.csproj.AssemblyReference.cache
+/Users/admin/Documents/net/fourth-excersise/obj/Debug/net5.0/fourth-excersise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/net/fourth-excersise/obj/Debug/net5.0/fourth-excersise.AssemblyInfoInputs.cache
+/Users/admin/Documents/net/fourth-excersise/obj/Debug/net5.0/fourth-excersise.AssemblyInfo.cs
+/Users/admin/Documents/net/fourth-excersise/obj/Debug/net5.0/fourth-excersise.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/net/fourth-excersise/bin/Debug/net5.0/fourth-excersise.deps.json
+/Users/admin/Documents/net/fourth-excersise/bin/Debug/net5.0/fourth-excersise.runtimeconfig.json
+/Users/admin/Documents/net/fourth-excersise/bin/Debug/net5.0/fourth-excersise.runtimeconfig.dev.json
+/Users/admin/Documents/net/fourth-excersise/bin/Debug/net5.0/fourth-excersise.dll
+/Users/admin/Documents/net/fourth-excersise/bin/Debug/net5.0/ref/fourth-excersise.dll
+/Users/admin/Documents/net/fourth-excersise/bin/Debug/net5.0/fourth-excersise.pdb
+/Users/admin/Documents/net/fourth-excersise/obj/Debug/net5.0/fourth-excersise.dll
+/Users/admin/Documents/net/fourth-excersise/obj/Debug/net5.0/ref/fourth-excersise.dll
+/Users/admin/Documents/net/fourth-excersise/obj/Debug/net5.0/fourth-excersise.pdb
+/Users/admin/Documents/net/fourth-excersise/obj/Debug/net5.0/fourth-excersise.genruntimeconfig.cache
